@@ -1,0 +1,10 @@
+streamlit
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+joblib
+pillow
+nltk==3.9.1
+tensorflow-cpu==2.21.0
+keras==3.13.2
+groq

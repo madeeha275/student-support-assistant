@@ -1,0 +1,15 @@
+# Secrets - never upload
+.streamlit/secrets.toml
+.env
+
+# Large / training-only files
+data/images.npz
+*.npz
+*.zip
+!nltk_data/**/*.zip
+
+# Temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
