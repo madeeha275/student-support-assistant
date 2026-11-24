@@ -1,7 +1,7 @@
 # Student Support and Course Feedback Assistant
 AI for Everyone – Project 01 · Team: Madeeha, Hadia Arooj
 
-**Live demo:** _paste your Streamlit link here, e.g. https://your-app.streamlit.app_
+**Live demo:** https://student-support-assistant-fjefqbjc6vxmeuhuwhdb9a.streamlit.app
 
 A five-tab Streamlit app for a teacher reviewing a class after the second assessment period. It estimates whether a
 record may need academic support, shows a learning profile group, reads one handwritten feedback digit, and
