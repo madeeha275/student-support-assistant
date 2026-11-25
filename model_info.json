@@ -1,0 +1,54 @@
+{
+  "supervised_features": [
+    "G1",
+    "G2",
+    "studytime",
+    "failures",
+    "schoolsup",
+    "famsup",
+    "internet"
+  ],
+  "numeric_features": [
+    "G1",
+    "G2",
+    "studytime",
+    "failures"
+  ],
+  "categorical_features": [
+    "schoolsup",
+    "famsup",
+    "internet"
+  ],
+  "cluster_features": [
+    "G1",
+    "G2",
+    "studytime",
+    "failures"
+  ],
+  "target": "needs_support",
+  "image_shape": [
+    28,
+    28,
+    1
+  ],
+  "image_classes": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "versions": {
+    "python": "3.13.18",
+    "scikit-learn": "1.6.1",
+    "tensorflow": "2.21.0",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "nltk": "3.9.1"
+  }
+}
